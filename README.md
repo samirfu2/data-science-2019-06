@@ -8,3 +8,14 @@
 ### 1-Python Tutorial - https://docs.scipy.org/doc/numpy/user/quickstart.html (Links to an external site.)Links to an external site.
 ### 2-Numpy Tutorial - http://cs231n.github.io/python-numpy-tutorial/ (Links to an external site.)Links to an external site.
 ### 3-10 minutes to Pandas - https://pandas.pydata.org/pandas-docs/stable/10min.html#min (Links to an external site.)Links to an external site.
+
+# Python Tutorial
+### https://youtu.be/K_fym6C-VNY
+### https://youtu.be/v6W6Oc76H1o
+### https://youtu.be/hAx8RgTXwxs
+### https://youtu.be/K7-oodBQM2o
+### https://youtu.be/D9yUVAmjLuc
+### https://youtu.be/ssiRa4pJS24
+### https://youtu.be/snLzicc9q90
+### https://youtu.be/snLzicc9q90
+### https://youtu.be/UfUSSIBQUOE
