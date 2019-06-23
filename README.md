@@ -19,3 +19,29 @@
 ### https://youtu.be/snLzicc9q90
 ### https://youtu.be/snLzicc9q90
 ### https://youtu.be/UfUSSIBQUOE
+
+
+
+# POC 
+# ------
+
+
+  1) Banking---- Market data /Cost 
+     A) Anomaly ---  Rules based anomaly
+     b) figuring out the trading limit 
+     c) FaceNet 
+     d) Document processing   (Optional)
+     e) Prediction of the trading volume 
+     f)  Buy/Sell --- stock Recomendation  (Tech)
+	 g) Rules based prediction
+  2)Telecom
+     a) churn Analysis
+	 b) Product Recomendation
+  3) Fintech
+     a)	(Prediction) probabolity of the customer to decide
+	 d)  
+  4) Check X-ray data Anomay
+     a) Detecting type anomaly
+	 
+	 
+  5) NLTK
