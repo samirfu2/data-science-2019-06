@@ -26,9 +26,9 @@
 # ------
 
 
-##  1) Banking---- Market data /Cost 
+##  1) Banking---- Market data / Cost 
   
- ##    A) Anomaly ---  Rules based anomaly
+ ## a) Anomaly ---  Rules based anomaly
   
  ## b) figuring out the trading limit 
   
@@ -50,7 +50,7 @@
 
 ## 3) Fintech
 
-## a)	(Prediction) probabolity of the customer to decide
+## a)	(Prediction) probability of the customer to decide
 
 
 ## 4) Check X-ray data Anomaly
