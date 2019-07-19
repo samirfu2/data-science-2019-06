@@ -59,3 +59,5 @@
 	 
 	 
   ## 5) NLTK
+# STATISTIC BASIC
+### https://www.statisticshowto.datasciencecentral.com/statistics-basics/
