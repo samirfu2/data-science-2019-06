@@ -28,15 +28,15 @@
 
 ##  1) Banking---- Market data / Cost 
   
- ## a) Anomaly ---  Rules based anomaly (X)
+ ## a) Anomaly ---  Rules based anomaly (X) -- Team-2 
   
- ## b) figuring out the trading limit (X)
+ ## b) figuring out the trading limit (X) -- Team-1
   
  ## c) FaceNet 
   
  ## d) Document processing   (Optional)
   
- ## e) Prediction of the trading volume  (X)  
+ ## e) Prediction of the trading volume  (X)-- Team-1  
   
  ## f)  Buy/Sell --- stock Recomendation  (Tech)
 
