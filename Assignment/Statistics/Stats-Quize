@@ -1,0 +1,222 @@
+Instructions
+Dear Participant,
+The Quiz of Statistical Learning has 15 multiple choice questions of 2 marks each. Time limit is 40 minutes. 
+ 
+Question 1: The 50th percentile of a distribution is also called as
+  
+A) Mean
+ 
+  
+B) Mode
+
+  
+C) Median
+ 
+  
+D) Inter-Quartile Range
+ 
+ 
+Question 2:
+
+A student in his exam, selects option C for all 10 multiple choice questions (MCQ). According to statistics, how many questions out of 10, the student will be right?
+(Format of the exam: 10 MCQ. Each MCQ has 4 answer choices A,B,C,D - out of which 1 choice is right and rest 3 are wrong)
+Disclaimer: Please do not try this in this quiz !!!
+  
+A) 5
+ 
+  
+B) 2.5
+ 
+  
+C) 2
+ 
+  
+D) 5.5
+ 
+ 
+Question 3 :
+
+Seven numbers are given: (4, 6, 8, 10, 12, 14,16). Let’s its mean be A. We add 1 to all the elements in the above data set and the mean of this new data set is B. What is the relation between A and B?
+Correct!
+  
+A) B = A+1
+ 
+  
+B) A = B+1
+ 
+  
+C) B = A-1
+ 
+  
+D) None of them
+ 
+ 
+Question 4:
+
+How is IQR defined?
+  
+A) 4th Quartile – 1st Quartile
+ 
+  
+B) 3rd Quartile – 2nd Quartile
+ 
+  
+C) 2nd Quartile – 1st Quartile
+ 
+  
+D) 3rd Quartile – 1st Quartile
+ 
+ 
+Question 5:
+
+If a positively skewed distribution has a median of 30, which of the following statement is true?
+  
+A) Mean is greater than 30
+ 
+  
+B) Mean is less than 30
+ 
+  
+C) Mode is less than 30
+ 
+  
+D) Both A and C
+ 
+ 
+Question 6 :
+
+Gender (Male/Female) is an example of?
+  
+A) Continuous quantitative data
+ 
+  
+B) Categorical qualitative data
+ 
+  
+C) Numerical data
+ 
+  
+D) Discrete quantitative data
+ 
+ 
+Question 7 :
+
+The probability function is always
+  
+A) Negative
+ 
+  
+B) Positive
+ 
+  
+C) Non Negative
+ 
+  
+D) None
+ 
+ 
+Question 8 :
+
+Which of the following measures of central tendency will always change if a single value in the data changes?
+  
+A) Median
+ 
+  
+B) Mode
+ 
+  
+C) Mean
+ 
+  
+D) All of them
+ 
+ 
+Question 9 :
+
+Each student’s score on the final exam in Mr. Shenton’s class is listed below. 58, 72, 74, 92, 84, 40, 74, 81, 76, 83
+What was the lower(1st) quartile score on Mr. Shenton’s final exam?
+  
+A) 58
+ 
+  
+B) 72
+ 
+  
+C) 74
+ 
+  
+D) 81
+ 
+ 
+Question 10 :
+
+Which of the following is not an example of a discrete probability distribution?
+ 
+A) The price of a house
+ 
+  
+B) The number of bedrooms in a house
+ 
+  
+C) The number of bathrooms in a house
+ 
+  
+D) Whether or not a home has a swimming pool in it
+ 
+ 
+Question 11 :
+
+Each student’s score on the final exam in Mr. Shenton’s class is listed below. 58, 72, 74, 92, 84, 40, 74, 81, 76, 83
+What was the median score on Mr. Shenton’s final exam?
+  
+A) 74
+  
+B) 92
+   
+C) 75
+ 
+  
+D) 76
+ 
+ 
+Question 12: Which of the following measure is affected by extreme values?
+  
+A) Mean
+ 
+  
+B) Median
+ 
+  
+C) Mode
+ 
+  
+D) None of them
+ 
+ 
+Question 13: Which of these is a measure of Variability?
+  
+A) Mean
+ 
+  
+B) Mode
+ 
+  
+C) Median
+ 
+D) Standard deviation
+ 
+ 
+Question 14 :  Which of the following datatype is unsuitable for performing any type of arithmetic operation?
+  
+A) Float32
+ 
+  
+B) Int32
+ 
+ 
+C) Object
+ 
+  
+D) None of them
+ 
+ 
