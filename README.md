@@ -61,3 +61,6 @@
   ## 5) NLTK
 # STATISTIC BASIC
 ### https://www.statisticshowto.datasciencecentral.com/statistics-basics/
+
+
+## KNN QUESTION: https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/
