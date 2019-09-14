@@ -1,0 +1,11 @@
+Feature Selection course
+● Feature Engineering and its importance
+● EDA
+● Feature Selection ( Forward selection, Backward Elimination)
+● Regularization for Feature Selection
+● Regularising Linear Models (Shrinkage methods) - Lasso and Ridge
+
+
+Cross Validation
+----------------
+https://scikit-learn.org/stable/modules/cross_validation.html

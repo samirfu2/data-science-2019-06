@@ -20,7 +20,8 @@
 ### https://youtu.be/snLzicc9q90
 ### https://youtu.be/UfUSSIBQUOE
 
-
+### AI and ML Difference
+https://www.wired.co.uk/article/machine-learning-ai-explained
 
 # POC 
 # ------
