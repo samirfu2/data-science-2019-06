@@ -1,0 +1,20 @@
+Due to the way references and name binding works in Python, if you want to update some symbol in a module, say foo.bar, from outside that module, and have other importing code "see" that change, you have to import foo a certain way. For example:
+
+module foo:
+
+bar = "apples"
+module a:
+
+import foo
+foo.bar = "oranges"   # update bar inside foo module object
+module b:
+
+import foo           
+print foo.bar        # if executed after a's "foo.bar" assignment, will print "oranges"
+However, if you import symbol names instead of module names, this will not work.
+
+For example, if I do this in module a:
+
+from foo import bar
+bar = "oranges"
+No code outside of a will see bar as "oranges" because my setting of bar merely affected the name "bar" inside module a, it did not "reach into" the foo module object and update its "bar".
